@@ -33,4 +33,4 @@ User: bye
 Bot: Goodbye! Have a nice day.
 
 ## Author
-Ramya Goud
+v.kovela suma goud
